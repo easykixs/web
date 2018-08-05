@@ -1,2 +1,2 @@
 # web
-easykixs.com
+www.easykixs.com
